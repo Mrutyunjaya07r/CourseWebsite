@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(90deg, rgb(15, 15, 15),rgb(119, 119, 119)),linear-gradient(67.5deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%),linear-gradient(0deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%),linear-gradient(22.5deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%); background-blend-mode:overlay, overlay, overlay, normal;
+}
+.c1{
+    
+    width: 400px;
+    text-align: center;
+    position: relative;
+    left: 362px;
+    top: 10px;
+    border-radius: 2rem;
+    border: 3px solid black;
+  
+}
+.placeholder{
+    height: 30px;
+    width: 300px;
+    border-radius: 2rem;
+    border: 3px solid black;
+}
+.select{
+    height: 30px;
+    width: 150px;
+    border-radius: 2rem;
+}
+.submit{
+    height: 25px;
+    border-radius: 2rem;
+    color:wheat;
+    background-color: rgb(22, 22, 212);
+    border: 2px solid black;
+
+}
